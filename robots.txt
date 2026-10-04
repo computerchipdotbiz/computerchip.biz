@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://computerchip.biz/sitemap.xml

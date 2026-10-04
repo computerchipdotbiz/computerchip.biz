@@ -1,0 +1,17 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    .icon-primary { fill: #0091ff; }
+    .icon-secondary { fill: #ffffff; }
+    .icon-accent { fill: #d1e0ff; }
+    @media (prefers-color-scheme: dark) {
+        .icon-primary { fill: #0ea5e9; }
+        .icon-secondary { fill: #1e293b; }
+        .icon-accent { fill: #334155; }
+    }
+</style>
+<path d="M0 48C0 21.49 21.49 0 48 0H208C234.51 0 256 21.49 256 48V208C256 234.51 234.51 256 208 256H48C21.49 256 0 234.51 0 208V48Z" class="icon-secondary"/>
+<path d="M56 56H200V168H56V56Z" class="icon-accent"/>
+<path d="M40 40H216C218.209 40 220 41.7909 220 44V172C220 174.209 218.209 176 216 176H40C37.7909 176 36 174.209 36 172V44C36 41.7909 37.7909 40 40 40Z" class="icon-primary"/>
+<path d="M108 192H148V216H108V192Z" class="icon-primary"/>
+<path d="M72 216H184V224H72V216Z" class="icon-primary"/>
+</svg>
